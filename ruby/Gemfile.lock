@@ -85,7 +85,7 @@ DEPENDENCIES
   rubocop-performance
 
 RUBY VERSION
-   ruby 3.1.3p185
+   ruby 3.1.4p223
 
 BUNDLED WITH
-   2.4.19
+   2.4.20
